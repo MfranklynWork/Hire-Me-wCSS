@@ -1,0 +1,31 @@
+img {
+    height: 300px;
+}
+
+body {
+    background-color: #ebcadf;
+ 	background-image: linear-gradient(#ebcadf, #c898eb, #cae9eb);
+}
+
+.info {
+    font-size: 30px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.heading {
+    text-align: center;
+    color: #c898eb;
+    background-color: #cae9eb;
+    font-family: 'Ephesis', cursive;
+    font-size: 50px;
+}
+
+.reason {
+    font-size: 30px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.list {
+    font-size: 20px;
+    font-family: 'Festive', cursive;
+}
